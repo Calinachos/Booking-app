@@ -1,0 +1,14 @@
+[
+	{
+		
+		"room_id": {
+			"$oid": "6002d230e5e90927f49a1018"
+		},
+		"reason": "Competence ramp-up in the rock-moving department.",
+		"start_at": { "$date": "2018-11-10 22:26:12.111Z" },
+		"end_at": { "$date": "2018-11-11 01:26:12.111Z" },
+		"user_id": {
+			"$oid": "6001be7cf8275be1caf03428"
+		}
+	}
+]

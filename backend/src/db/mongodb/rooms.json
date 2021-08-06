@@ -1,0 +1,51 @@
+[
+	{
+		
+		"name": "Tatooine",
+		"description": "A room full of mercenaries and diversity.",
+		"org_id": {
+			"$oid": "6002d0bae5e90927f49a1016"
+		}
+	},
+	{
+		
+		"name": "Coruscant",
+		"description": "It's like NYC in a galaxy far far away...",
+		"org_id": {
+			"$oid": "6002d0bae5e90927f49a1016"
+		}
+	},
+	{
+		
+		"name": "Death Star",
+		"description": "It's big and has a comunist vibe.",
+		"org_id": {
+			"$oid": "6002d0bae5e90927f49a1016"
+		}
+	},
+	{
+		
+		"name": "Kashyyyk",
+		"description": "It's mainly full of hipsters.",
+		"org_id": {
+			"$oid": "6002d0bae5e90927f49a1017"
+		}
+	},
+	{
+		
+		"name": "Naboo",
+		"description": "When you enter, it makes you feel like a young rebel who doesn't like sand",
+		"org_id": {
+			"$oid": "6002d0bae5e90927f49a1017"
+		}
+	},
+	{
+		
+		"name": "Dagobah",
+		"description": "Kind of messy, but has a calming vibe to it.",
+		"org_id": {
+			"$oid": "6002d0bae5e90927f49a1017"
+		}
+	}
+
+]

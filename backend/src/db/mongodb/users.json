@@ -1,0 +1,38 @@
+[
+	{
+		
+		"username": "mihai",
+		"password": "mihai",
+		"type": 0,
+		"org_id": {
+			"$oid": "6002d0bae5e90927f49a1016"
+		}
+	},
+	{
+		
+		"username": "denis",
+		"password": "denis",
+		"type": 0,
+		"org_id": {
+			"$oid": "6002d0bae5e90927f49a1016"
+		}
+	},
+	{
+		
+		"username": "calin",
+		"password": "calin",
+		"type": 0,
+		"org_id": {
+			"$oid": "6002d0bae5e90927f49a1017"
+		}
+	},
+	{
+		
+		"username": "vilcica",
+		"password": "vilcica",
+		"type": 0,
+		"org_id": {
+			"$oid": "6002d0bae5e90927f49a1017"
+		}
+	}
+]
